@@ -1,5 +1,7 @@
 # Ng5
 
+## personal study of Angular5 from a Udemy course
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
